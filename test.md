@@ -47,7 +47,7 @@ Overall Glossary functions are described in separate instructinon [Glossary owne
 
 Product events glossary structure objects:
 
-<img src="/adr/metadata/images/Glossary.png" width="50" height="80">
+<img src="/images/Glossary.png" width="150" height="180">
 
 * Domain - is the activity of an organization or its independent part, which has a set of unique properties and described through a set of structured and unified data about it.  
 There are two of them in this glossary: Product events and Product events parameters.
@@ -65,7 +65,7 @@ Example: call.client.call_incoming_accept.click
 
 [Classification](https://prod.metadata.indrive.tech/tags/Glossary%20types) in OpenMetadata section contain:
 
-<img src="/adr/metadata/images/Classification.png" width="50" height="80">
+<img src="/images/Classification.png" width="150" height="180">
 
 * Glossary types contain: "Events", "Events_parameters", "Events_Feature"
 * Events teams contain: Verticals' teams "Events_TnS", "Events_Messenger", "Events_Geo", "Events_Watchdocs" added at initial Glossary usage stage and other will be added at full Glossary usage stage
@@ -106,7 +106,7 @@ Role: Glossary owner (products analyst/product manager)
 Action:   
 Go to Glossary in OpenMetadata and either create new Feature by pressing "add term" in the upper right corner if existing Features are not enough, or choose proper existing Feature for adding product event term there.
 
-<img src="/adr/metadata/images/Feature.png" width="50" height="80">
+<img src="/images/Feature.png" width="150" height="180">
 
 2. Product event term creation (or new parameter creation)  
 
@@ -117,12 +117,12 @@ Search if this event term or parameter already exists using name. Similar names 
 
 After choosing relevant Feature, push "+" sign next to it: 
 
-<img src="/adr/metadata/images/create.png" width="50" height="80">
+<img src="/images/create.png" width="150" height="180">
 
 
 Fill-in pop-up window with term card:
 
-<img src="/adr/metadata/images/card.png" width="630" height="780">
+<img src="/images/card.png" width="630" height="780">
 
   *  Name and Display name: should be the same, use lower case text naming and the same style as it will be added to code by developer, words separated by dots or undescore. For example term: call.client.call_outgoing_screen.view. Parameter example: country_code.
 
