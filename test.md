@@ -47,7 +47,7 @@ Overall Glossary functions are described in separate instructinon [Glossary owne
 
 Product events glossary structure objects:
 
-<img src="/images/Glossary.png" width="150" height="180">
+<img src="/images/Glossary.png" width="150" height="580">
 
 * Domain - is the activity of an organization or its independent part, which has a set of unique properties and described through a set of structured and unified data about it.  
 There are two of them in this glossary: Product events and Product events parameters.
@@ -65,7 +65,7 @@ Example: call.client.call_incoming_accept.click
 
 [Classification](https://prod.metadata.indrive.tech/tags/Glossary%20types) in OpenMetadata section contain:
 
-<img src="/images/Classification.png" width="150" height="180">
+<img src="/images/Classification.png" width="150" height="580">
 
 * Glossary types contain: "Events", "Events_parameters", "Events_Feature"
 * Events teams contain: Verticals' teams "Events_TnS", "Events_Messenger", "Events_Geo", "Events_Watchdocs" added at initial Glossary usage stage and other will be added at full Glossary usage stage
@@ -106,7 +106,7 @@ Role: Glossary owner (products analyst/product manager)
 Action:   
 Go to Glossary in OpenMetadata and either create new Feature by pressing "add term" in the upper right corner if existing Features are not enough, or choose proper existing Feature for adding product event term there.
 
-<img src="/images/Feature.png" width="150" height="180">
+<img src="/images/Feature.png" width="150" height="580">
 
 2. Product event term creation (or new parameter creation)  
 
@@ -117,7 +117,7 @@ Search if this event term or parameter already exists using name. Similar names 
 
 After choosing relevant Feature, push "+" sign next to it: 
 
-<img src="/images/create.png" width="150" height="180">
+<img src="/images/create.png" width="150" height="580">
 
 
 Fill-in pop-up window with term card:
